@@ -3,7 +3,7 @@
 
 # MyShell: A Custom Command Shell in C
 
-This project is a custom command-line shell implemented in C for a Linux-based environment. [cite\_start]It is designed to replicate core functionalities of a standard shell, such as executing commands, handling multiple processes, and managing I/O redirection, using fundamental OS system calls like `fork()`, `exec()`, and `wait()`. 
+This project is a custom command-line shell implemented in C for a Linux-based environment. It is designed to replicate core functionalities of a standard shell, such as executing commands, handling multiple processes, and managing I/O redirection, using fundamental OS system calls like `fork()`, `exec()`, and `wait()`. 
 
 -----
 
